@@ -42,7 +42,6 @@ public class User {
    }
 
    public User(String firstName, String lastName, String email, Car car) {
-      this.id = id;
       this.firstName = firstName;
       this.lastName = lastName;
       this.email = email;
